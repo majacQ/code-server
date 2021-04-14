@@ -1,7 +1,7 @@
 # code-server &middot; [!["GitHub Discussions"](https://img.shields.io/badge/%20GitHub-%20Discussions-gray.svg?longCache=true&logo=github&colorB=purple)](https://github.com/cdr/code-server/discussions) [!["Join us on Slack"](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen)](https://cdr.co/join-community) [![Twitter Follow](https://img.shields.io/twitter/follow/CoderHQ?label=%40CoderHQ&style=social)](https://twitter.com/coderhq)
 
-![Lines](https://img.shields.io/badge/Coverage-50.08%25-green.svg)
-[![See latest docs](https://img.shields.io/static/v1?label=Docs&message=see%20latest%20&color=blue)](https://github.com/cdr/code-server/tree/v3.9.0/docs)
+![Lines](https://img.shields.io/badge/Coverage-51.67%25-green.svg)
+[![See latest docs](https://img.shields.io/static/v1?label=Docs&message=see%20latest%20&color=blue)](https://github.com/cdr/code-server/tree/v3.9.1/docs)
 
 Run [VS Code](https://github.com/Microsoft/vscode) on any machine anywhere and access it in the browser.
 
@@ -24,10 +24,11 @@ You can use whatever linux distribution floats your boat but in our [guide](./do
 
 ## Getting Started
 
-There are two ways to get started:
+There are three ways you can get started:
 
 1. Using the [install script](./install.sh), which automates most of the process. The script uses the system package manager (if possible)
 2. Manually installing code-server; see [Installation](./docs/install.md) for instructions applicable to most use cases
+3. Use our one-click buttons and guides to [deploy code-server to a popular cloud provider](https://github.com/cdr/deploy-code-server) ⚡
 
 If you choose to use the install script, you can preview what occurs during the install process:
 
@@ -45,7 +46,7 @@ When done, the install script prints out instructions for running and starting c
 
 We also have an in-depth [setup and configuration](./docs/guide.md) guide.
 
-### Cloud Program ☁️
+### code-server --link
 
 We're working on a cloud platform that makes deploying and managing code-server easier.
 Consider running code-server with the beta flag `--link` if you don't want to worry about
