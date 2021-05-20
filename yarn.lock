@@ -4565,9 +4565,9 @@ isstream@~0.1.2:
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
 istanbul-badges-readme@^1.2.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/istanbul-badges-readme/-/istanbul-badges-readme-1.2.1.tgz#aea1891f4515ddfe7f62704cba87bd25cccfcce0"
-  integrity sha512-/rXtmpI0bzdmgaeZrutA5vL6c0NikSRRfBmjVxS0yJgU1o5elQARXiFQTiakkxGCrI2vS/k4X6zjGrV+32FJFQ==
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/istanbul-badges-readme/-/istanbul-badges-readme-1.3.2.tgz#4ac0be2e8681058c8e91d3df57e3cb8849f4e721"
+  integrity sha512-5v89lA4MVmNJryqAHQZW9AWgsdmTW9i5+purhGnLgZ3vpzTjI3HeTNWB5IvrNX3n2a+Zk9qszdSJFNiEIF7A1A==
 
 js-tokens@^4.0.0:
   version "4.0.0"
